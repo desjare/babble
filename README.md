@@ -8,4 +8,4 @@ Using the collected information, we could possibly using ml detect mistakes sinc
 
 I never finished it and keep it for reference.
 
-[DELA](http://infolingu.univ-mlv.fr/DonneesLinguistiques/Dictionnaires/telechargement.html) is licence [LGPLLR](http://infolingu.univ-mlv.fr/DonneesLinguistiques/Lexiques-Grammaires/lgpllr.html)
+[DELA](http://infolingu.univ-mlv.fr/DonneesLinguistiques/Dictionnaires/telechargement.html) is licence [LGPLLR](http://infolingu.univ-mlv.fr/DonneesLinguistiques/Lexiques-Grammaires/lgpllr.html).
